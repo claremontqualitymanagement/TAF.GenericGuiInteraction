@@ -4,7 +4,7 @@
 
     <groupId>com.github.claremontqualitymanagement</groupId>
     <artifactId>taf.genericguiinteraction</artifactId>
-    <version>4.1.1</version>
+    <version>4.1.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>TAF - Generic GUI support, used by other modules</name>
 
@@ -36,7 +36,7 @@
         <connection>scm:git:git://github.com/claremontqualitymanagement/TAF.GenericGuiInteraction.git</connection>
         <developerConnection>scm:git://github.com/claremontqualitymanagement/TAF.GenericGuiInteraction.git</developerConnection>
         <url>https://github.com/claremontqualitymanagement/TAF.GenericGuiInteraction</url>
-        <tag>taf.genericguiinteraction-4.1.1</tag>
+        <tag>taf.genericguiinteraction-4.0.1</tag>
     </scm>
 
     <dependencies>
